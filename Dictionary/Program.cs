@@ -17,7 +17,7 @@ namespace Dictionary
             _arrays.List();
            
             Console.ReadLine();
-             
+            
         } 
     }
 }
