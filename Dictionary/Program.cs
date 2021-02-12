@@ -15,7 +15,7 @@ namespace Dictionary
 
             Console.WriteLine("Count :{0} ", _arrays.Count);
             _arrays.List();
-          
+           
             Console.ReadLine();
 
         }
